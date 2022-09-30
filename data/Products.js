@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "6",
     name: "Coffee cat illustration",
     image: "/images/6.png",
     description:
@@ -11,7 +10,6 @@ const products = [
     numReviews: 4,
   },
   {
-    _id: "5",
     name: "Bone China mug handmade illustrated",
     image: "/images/5.png",
     description:
@@ -22,7 +20,6 @@ const products = [
     numReviews: 2,
   },
   {
-    _id: "4",
     name: "Cat ceramic mug",
     image: "/images/4.png",
     description:
@@ -33,7 +30,6 @@ const products = [
     numReviews: 3,
   },
   {
-    _id: "3",
     name: "cat cute mug",
     image: "/images/3.png",
     description:
@@ -44,7 +40,6 @@ const products = [
     numReviews: 9,
   },
   {
-    _id: "2",
     name: "Sitting Cat and Sitting Dog Mug",
     image: "/images/2.png",
     description:
@@ -55,7 +50,6 @@ const products = [
     numReviews: 2,
   },
   {
-    _id: "1",
     name: "Delightful and elegant cat mug with spoon and lid",
     image: "/images/1.png",
     description:
