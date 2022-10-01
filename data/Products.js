@@ -6,7 +6,7 @@ const products = [
       "You are looking at a DIGITAL FILE. This means that no physical products will be sent or shipped to you. But you can print your order in given sizes that you prefer and decorate your space.",
     price: 4.99,
     countInStock: 3,
-    rating: 4,
+    rating: 45,
     numReviews: 4,
   },
   {
